@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Izenberk
 
-🎯 Aspiring **Data Engineer** | Currently a **Derivatives Trader**  
+🎯 Aspiring **Data Engineer** | Former **Derivatives Trader**  
 🌱 Learning Python, SQL, Docker, Airflow, dbt, and Cloud Platforms  
 📊 Passionate about data pipelines, automation, and analytics
 
