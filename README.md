@@ -1,35 +1,39 @@
-# 👋 Hi, I’m Izenberk
+# 👋 Hi, I’m Korn-apichit N.  
 
-🎯 Aspiring **Data Engineer** | Former **Derivatives Trader**  
-🌱 Learning Python, SQL, Docker, Airflow, dbt, and Cloud Platforms  
-📊 Passionate about data pipelines, automation, and analytics
+💻 **Junior Full-Stack Developer** | 📈 **Former Derivatives Trader**  
 
----
-
-## 👀 Interests
-- Data Engineering & Cloud Architecture
-- Building ETL Pipelines with Python & Airflow
-- Data Modeling with dbt
-- Stream Processing with Kafka
-- Dashboarding with Looker Studio / Tableau
+I’m transitioning from financial trading into tech — now building professional skills in **frontend and backend development**. I love creating clean, functional applications that connect data, APIs, and user experiences.  
 
 ---
 
-## 🚀 Goal
-Transition into a **full-time Data Engineering role** by building real-world projects and earning cloud certifications in data engineer.
+## 🔧 Tech & Tools  
+- **Frontend:** React, TailwindCSS, shadcn/ui  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Databases:** MongoDB, PostgreSQL  
+- **Infra & Tools:** Git/GitHub, Docker, CI/CD, Agile  
 
 ---
 
-## 📫 How to reach me
-📧 aceskorn555@outlook.com  
-🌐 [Korn-aphichit Ngaopan(LinkedIn)](https://www.linkedin.com/in/korn-aphichit-ngaopan/)
+## 👀 Interests  
+- Full-stack web applications with MERN  
+- Clean, maintainable code & component-based design  
+- Building APIs and connecting databases  
+- Deploying and optimizing modern web apps  
 
 ---
 
-Thanks for visiting!
+## 🚀 Current Goal  
+Grow into a **Junior Software Developer role** by:  
+- Building and shipping **real-world projects** (solo & group)  
+- Expanding backend skills with **Java & cloud fundamentals**  
+- Strengthening collaboration through Git workflows & Agile  
 
+---
 
-<!---
-Izenberk/Izenberk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Let’s Connect  
+📧 **aceskorn555@outlook.com**  
+🌐 [LinkedIn – Korn-apichit Ngaopan](https://www.linkedin.com/in/korn-aphichit-ngaopan/)  
+
+---
+
+✨ Thanks for visiting — always open to new opportunities, collaboration, and learning!  
