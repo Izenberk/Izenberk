@@ -1,39 +1,47 @@
-# 👋 Hi, I’m Korn-apichit N.  
+# 👋 Hi, I’m Korn-apichit N.
 
-💻 **Junior Full-Stack Developer** | 📈 **Former Derivatives Trader**  
+💻 **Junior Full-Stack Developer** | 📈 **Former Derivatives Trader**
 
-I’m transitioning from financial trading into tech — now building professional skills in **frontend and backend development**. I love creating clean, functional applications that connect data, APIs, and user experiences.  
+Transitioning from the fast-paced world of financial trading into technology — now focused on building **scalable, data-driven web applications**.  
+I enjoy designing clean, efficient solutions that bridge the gap between **backend logic and user experience**.
 
 ---
 
-## 🔧 Tech & Tools  
-- **Frontend:** React, TailwindCSS, shadcn/ui  
-- **Backend:** Node.js, Express.js, REST APIs  
+## 🔧 Tech & Tools
+- **Frontend:** React, Next.js, TailwindCSS, shadcn/ui  
+- **Backend:** Node.js, Express.js, NestJS, REST APIs  
 - **Databases:** MongoDB, PostgreSQL  
-- **Infra & Tools:** Git/GitHub, Docker, CI/CD, Agile  
+- **Infrastructure & Tools:** Docker, Git/GitHub, CI/CD, Agile
 
 ---
 
-## 👀 Interests  
-- Full-stack web applications with MERN  
-- Clean, maintainable code & component-based design  
-- Building APIs and connecting databases  
-- Deploying and optimizing modern web apps  
+## 🧠 What I’m Passionate About
+- Building full-stack web applications (MERN / Next + Nest)  
+- Writing **maintainable, type-safe** code with modern tools  
+- Designing **RESTful APIs** and integrating complex data flows  
+- Exploring **cloud platforms** and containerized deployment
 
 ---
 
-## 🚀 Current Goal  
-Grow into a **Junior Software Developer role** by:  
-- Building and shipping **real-world projects** (solo & group)  
-- Expanding backend skills with **Java & cloud fundamentals**  
-- Strengthening collaboration through Git workflows & Agile  
+## 🚀 Current Focus
+🎯 Growing into a **Junior Software Developer** by:
+- Developing and deploying **real-world portfolio projects**
+- Expanding backend knowledge with **Java** and **Cloud Engineering**
+- Sharpening team collaboration through **Git workflows** & **Agile practices**
 
 ---
 
-## 📫 Let’s Connect  
+## 🧩 Featured Projects
+- 🎬 **Nextflix** – Netflix-style movie web app (Next.js + NestJS monorepo)  
+- 🐾 **HugPaw** – Full-stack e-commerce site for pet supplies (MERN stack)  
+*(More projects on the way — exploring Clean Architecture and API integration!)*
+
+---
+
+## 📫 Let’s Connect
 📧 **aceskorn555@outlook.com**  
-🌐 [LinkedIn – Korn-apichit Ngaopan](https://www.linkedin.com/in/korn-aphichit-ngaopan/)  
+🌐 [LinkedIn – Korn-apichit Ngaopan](https://www.linkedin.com/in/korn-aphichit-ngaopan/)
 
 ---
 
-✨ Thanks for visiting — always open to new opportunities, collaboration, and learning!  
+✨ *Thanks for stopping by! Always open to learning, collaboration, and building something meaningful.*
