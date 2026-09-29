@@ -98,7 +98,9 @@ Netflix-style movie platform built as a full-stack monorepo. Demonstrates domain
 
 ---
 
+[![Izenberk's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Izenberk&theme=react-dark)](https://github.com/Izenberk)
 
+---
 ## 🤝 Let's Connect
 
 I'm open to roles and collaborations at the intersection of **AI Automation**, **Backend Engineering**, and **Cloud-Native infrastructure**.
